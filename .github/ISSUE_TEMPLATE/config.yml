@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Spring Initializr
+    url: https://github.com/spring-io/initializr
+    about: Please report issues that aren't specific to start.spring.io here.

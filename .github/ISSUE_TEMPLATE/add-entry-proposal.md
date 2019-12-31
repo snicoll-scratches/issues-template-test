@@ -1,9 +1,7 @@
 ---
 name: New Entry Proposal
 about: Suggest a new entry on start.spring.io.
-title: ''
 labels: 'type: entry-upgrade'
-assignees: ''
 ---
 
 # Requirements

@@ -3,8 +3,6 @@ name: Entry upgrade
 about: Report a new version for an existing dependency on start.spring.io.
 title: Upgrade to
 labels: 'type: entry-upgrade'
-assignees: ''
-
 ---
 
 <!--

@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
-Thanks for reporting a new version. Before creating the issue, make sure that the new version is available on Maven Central.
+<!--
+Thanks for reporting a new version.
+Before creating the issue, make sure that the new version is available on Maven Central.
+-->
+

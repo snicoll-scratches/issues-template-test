@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Spring Initializr
-    url: https://github.com/spring-io/initializr
+  - name: Questions
+    url: https://gitter.im/spring-io/initializr
+    about: Please ask questions about start.spring.io here or on StackOverflow.
+  - name: Spring Initializr (Library)
+    url: https://github.com/spring-io/initializr/issues/new
     about: Please report issues that aren't specific to start.spring.io here.

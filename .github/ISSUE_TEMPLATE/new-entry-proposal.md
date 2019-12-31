@@ -2,7 +2,7 @@
 name: New entry proposal
 about: Suggest a new dependency on start.spring.io.
 title: ''
-labels: 'type: entry-proposal'
+labels: 'type: entry-upgrade'
 assignees: ''
 
 ---
